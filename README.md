@@ -57,4 +57,5 @@ Advanced English🗽
 - Shell Script
 
 🎯Target
+-----------------------------
 Continuously strengthening my skills through hands-on projects, with a focus on Information Security, Blue Team, Red Team, and Secure Software Development.
