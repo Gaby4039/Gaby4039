@@ -16,6 +16,7 @@ Estudante de Cibersegurança na PUCPR - 4/8🎓
 - HTML/CSS
 - JavaScript
 - PHP
+- Java
 - Rust
 - C#
 - C++
